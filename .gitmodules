@@ -1,0 +1,4 @@
+[submodule "global-gradient-based-groundwater-model"]
+	path = global-gradient-based-groundwater-model
+	url = git@github.com:rreinecke/global-gradient-based-groundwater-model.git
+	branch = COASTGUARD
